@@ -93,7 +93,6 @@ int main()
 		}
 		cin >> runtime;
 
-
 		for (int i = 0; i < runtime; i++)
 		{
 			int p, q;
