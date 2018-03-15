@@ -16,7 +16,7 @@ public:
 	bool connected(int p, int q);
 	void Union(int p, int q);
 };
-void output(quickUnion node);
+
 quickUnion::quickUnion()
 {
 	id = new int[0];
